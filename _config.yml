@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "test text" # site tagline that appears below site title in masthead
 name                     : "Axel Blackert"
 description              : "An amazing website."
 url                      : "https://simplerr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Axel Blackert"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello world"
   location         : "Somewhere"
   email            :
@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://se.linkedin.com/in/axel-blackert-3593a957"
 
 # Site Footer
 footer:
