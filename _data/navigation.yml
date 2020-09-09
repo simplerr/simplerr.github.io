@@ -6,8 +6,8 @@ main:
     url: /utopian-engine/
   - title: "Old Projects"
     url: /projects/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
