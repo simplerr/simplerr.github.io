@@ -5,6 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
+![image](/assets/images/marching-cubes-4.png){: style="float: left; padding-right: 15px" width="60%"}
+
+[**Marching Cubes Demo**](https://github.com/simplerr/Marching-Cubes-Demo)
+[![github](/assets/images/GitHub-Mark-18px.png)](https://github.com/simplerr/Marching-Cubes-Demo) \\
+This demo uses the marching cubes algorithm to generate a simple terrain which the user then can use a sculpting tool to modify.
+The marching cubes algorithm is accelerated in a compute shader and the demo uses the Utopian Engine rendering framework.
+{: style="font-size: 15px; padding-bottom: 25px" }
+
 ![image](/assets/images/graphicsdemo.png){: style="float: left; padding-right: 15px" width="60%"}
 
 [**Graphics Demo**](https://github.com/simplerr/Graphics-Demo)
@@ -53,7 +61,7 @@ The game is using the same DirectX 11 renderar as the "Graphics Demo" project sh
 
 [**Simply2D**](https://github.com/simplerr/Simply2D)
 [![github](/assets/images/GitHub-Mark-18px.png)](https://github.com/simplerr/Simply2D) \\
-This is the first game I made and it's an 2D platformer tuned to be hard and requiring precise movement in order to solve the levels.
+This is the first game I made and it's a 2D platformer tuned to be hard and requiring precise movement in order to solve the levels.
 The main feature is the editor where you can build your own custom maps by placing platforms, spikes, portals, enemies, doors etc. and modify their attributes.
 Unfortunately creating levels was not as fun as making the editor so it only has 3 built in maps.
 {: style="font-size: 14px; padding-bottom: 25px" }
@@ -63,7 +71,7 @@ Unfortunately creating levels was not as fun as making the editor so it only has
 [**Out of Hairspray**](https://github.com/simplerr/)
 [![github](/assets/images/GitHub-Mark-18px.png)](https://github.com/simplerr/) \\
 You play as the famous Dr.B with the goal to collect as many girls as possible and not bumping into rivals. Use the hairspray that makes your hair look fluffy
-to attract even more girls! This game was made as a joke to a friend and is the first game to feature my own art, as you might tell ;)
+to attract even more girls! This game was made as a joke to a friend and is the first and last game to feature my own art, as you might tell ;)
 {: style="font-size: 15px; padding-bottom: 45px" }
 
 ![image](/assets/images/slimchat.png){: style="float: left; padding-right: 15px" width="60%"}
